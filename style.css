@@ -78,13 +78,21 @@ nav a {
     padding: 20px 0px 6px 80px;
 }
 .mm2{
-    padding: 20px 0px 25px 80px;
+    padding: 20px 0px 6px 80px;
 }
 .mm3{
     padding: 0px 0px 6px 80px;
 }
 .mm4{
     padding: 0px 0px 6px 80px;
+}
+.btn111{
+background:#F46A06;
+color: #fff !important;
+    display: inline-block;
+    justify-content: center;
+    padding:11px 17px 10px 11px;
+    font-size: 17px;
 }
 .post{
     width: 500px;
@@ -97,6 +105,12 @@ nav a {
     justify-content: center;
     padding:11px 17px 10px 11px;
     font-size: 17px;
+}
+.btn1 {
+    border: 2px solid #F46A06;
+    padding: 10px 3px;
+    box-shadow: 0 0 5px 1px #555555;
+    display: inline-block;
 }
 
 .page {
@@ -138,13 +152,6 @@ margin: 100px 273px 20px 0px;}
     text-align: center;
 }
 
-.btn1 {
-    border: 2px solid #F46A06;
-    padding: 10px;
-    box-shadow: 0 0 5px 1px #555555;
-    display: inline-block;
-}
-
 .flex1 {
     display: flex;
     gap: 20px;
@@ -166,7 +173,7 @@ margin: 100px 273px 20px 0px;}
 .two2 {
     font-size: 18px;
     padding: 10px 218px 20px 0px;
-    margin-left: 10px;
+    margin-left: 3px;
 }
 
 .btn a {
